@@ -29,3 +29,16 @@
 
 
 # Boxes
+### All html elements can be considered as boxes
+### Box is actually the surrounding of an html element, margins, pading, content,...
+### e.g
+### header nav ul li{
+### color:rgb(243, 82, 82);
+### text-align: center;
+### display: inline;
+### margin-inline-start: 10px;
+### padding: 6%;
+### margin-bottom: 10%;
+
+### Basically CSS deals with html elements as boxes
+### Width, hight, margin, padding, borders, images borders, can be controlled through boxes
