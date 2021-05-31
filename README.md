@@ -9,4 +9,5 @@
 | Read04  | Links & Layout   | [Link & layout](https://tamim86.github.io/reading-notes201/ead04)           |
 | Read05  | Images & Colors  | [Images & Colors](https://tamim86.github.io/reading-notes201/read05)        |
 | Read06  | Objects & OMD    | [Objects & OMD](https://tamim86.github.io/reading-notes201/read06)          |
-| Read06  | Tables           | [Tables](https://tamim86.github.io/reading-notes201/read07)                 |
+| Read07  | Tables           | [Tables](https://tamim86.github.io/reading-notes201/read07)                 |
+| Read08  | Layout           | [Layout](https://tamim86.github.io/reading-notes201/read08)                 |
