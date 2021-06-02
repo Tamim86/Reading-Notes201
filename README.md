@@ -12,3 +12,4 @@
 | Read07  | Tables           | [Tables](https://tamim86.github.io/reading-notes201/read07)                 |
 | Read08  | Layout           | [Layout](https://tamim86.github.io/reading-notes201/read08)                 |
 | Read09  | Forms,List,Events| [Forms & Events](https://tamim86.github.io/reading-notes201/read09)         |
+| Read10  | Debugguing       | [Debugging](https://tamim86.github.io/reading-notes201/read09)              |
