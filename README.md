@@ -14,5 +14,6 @@
 | Read09  | Forms,List,Events  | [Forms & Events](https://tamim86.github.io/reading-notes201/read09)         |
 | Read10  | Debugguing         | [Debugging](https://tamim86.github.io/reading-notes201/read10)              |
 | Read11  | Images & Pract Info| [Img, Prct Info](https://tamim86.github.io/reading-notes201/read11)         |
-| Read12  | Charts             | [harts](https://tamim86.github.io/reading-notes201/read11)                  |
-| Read13  |brief history       | [brief history](https://tamim86.github.io/reading-notes201/read11)          |
+| Read12  | Charts             | [harts](https://tamim86.github.io/reading-notes201/read12)                  |
+| Read13  |brief history       | [brief history](https://tamim86.github.io/reading-notes201/read13)          |
+| Read14  |Team work           | [team work](https://tamim86.github.io/reading-notes201/read14a)             |
